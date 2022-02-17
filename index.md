@@ -7,9 +7,14 @@ layout: default
 
 # Welcome stranger
 
+17/02/2022
+  
+stay tuned  
 
-[INFO] Have a good summer (:
- 
+
+yours hackersly,  
+k0z4c
+
 ## HackTheBox
 <ul>
   {% for post in site.posts %}
