@@ -7,9 +7,17 @@ layout: default
 
 # Welcome stranger
 
+17/02/2022
 
-[INFO] Have a good summer (:
- 
+Was a fucking troubling period of my life.
+
+I'll be back soon with new cool stuff  
+stay tuned  
+
+
+yours hackersly,  
+k0z4c
+
 ## HackTheBox
 <ul>
   {% for post in site.posts %}
