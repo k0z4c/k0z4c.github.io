@@ -1,5 +1,4 @@
 ---
-layout: post
 author: k0z4c
 title: Obscurity
 tags: hackthebox
