@@ -18,6 +18,4 @@ layout: default
 
 [Here]({% link about.md %}) some info about me.
 
-{% figure %}
 ![hacking]({% link assets/hacking_kittens.jpg %})  
-{% endfigure %}
