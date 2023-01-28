@@ -16,6 +16,8 @@ layout: default
   {% endfor %}
 </ul>
 
-[here]({% link about.md  %}) some info about me.
+[Here]({% link about.md %}) some info about me.
 
+{% figure %}
 ![hacking]({% link assets/hacking_kittens.jpg %})  
+{% endfigure %}

@@ -16,7 +16,7 @@
 title: HoundSec 
 email: matteo.sondrio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about hacking and exploiting things.
+  Another blog about hacking and exploiting things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social_links:
