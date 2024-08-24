@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social_links:
   twitter_username: msondrio 
-  github_username:  matt115
+  github_username:  k0z4c
   linkedin_username: matteo-sondrio-2657b159
 
 # Build settings
